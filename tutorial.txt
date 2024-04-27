@@ -1,0 +1,7 @@
+1. abra instalar.bat (instale python se não tiver)
+2. coloque (no minimo 1) token em tokens.txt (caso não colocar, gerador não vai funcionar)
+3. inicie o index.py (python index.py no terminal, no diretorio)
+* seja feliz, e boa sorte
+
+
+@zeck
